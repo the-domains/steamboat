@@ -7,8 +7,8 @@ keywords: []
 description: >-
   bu·oy (ˈbo͞oē, boi) noun. - an anchored float serving as a navigation mark, to
   show reefs or other hazards, or for mooring. 
-datePublished: '2016-06-22T22:46:35.022Z'
-dateModified: '2016-06-15T23:17:18.994Z'
+datePublished: '2016-06-22T22:48:20.480Z'
+dateModified: '2016-06-22T22:48:00.039Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-buoy-or-where-are-we-now.md
@@ -19,7 +19,7 @@ url: buoy-or-where-are-we-now/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9316c43-223c-407d-9515-1a46837b50c9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4454aee-6fc7-4329-9154-5087fd2b4fea.jpg)
 
 bu\*oy (ˈbo͞oē, boi) noun. - an anchored float serving as a navigation mark, to show reefs or other hazards, or for mooring. 
 
